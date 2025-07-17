@@ -10,7 +10,6 @@ This project is a real-time Deepfake Audio Detection web application built with 
 - 🔍 Extract 13-dimensional MFCC features
 - 🧠 Predict using a trained `.pkl` model (e.g., Logistic Regression)
 - 💬 Return result as **Real** or **Fake**
-- 📱 (Optional) Send result to Telegram via n8n webhook
 - 🌐 Can be hosted on Replit or local server
 
 ---
